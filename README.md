@@ -4,14 +4,15 @@ This project has as the main goal to organize the material studied in the specia
 
 This specialization consist in 4 courses:
 
- - Introduction to Data Science in Python
+ - [Introduction to Data Science in Python ](https://github.com/schaeferrodrigo/Data_Science_project/tree/master/Introduction%20to%20Data%20Science%20in%20Python)(**concluded**)
+     * _syllabus_: Python Fundamentals,Basic Data processing with Pandas, Advanced Python Pandas, Statistical Analysis in Python.
  - Applied Plotting, Charting and Data Representation in Python
  - Applied Machine Learning in Python
  - Applied Text Mining in Python
  - Applied Social Network Analysis in Python
 
 
- In progress: Introduction to Data Science in Python.
+
 
 <!-- You can use the [editor on GitHub](https://github.com/schaeferrodrigo/Data_Science_project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
